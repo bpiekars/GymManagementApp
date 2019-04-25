@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyProject", "ToyProject\ToyProject.csproj", "{39A16D09-4D53-4224-86E3-5E7BDE9E93CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymManagementApp", "ToyProject\GymManagementApp.csproj", "{39A16D09-4D53-4224-86E3-5E7BDE9E93CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
